@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "giteeImg",
+    "description": "简单好用的gitee图床，支持常用格式图片链接",
+    "version": "0.0.1",
+    "options_page": "options.html",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
